@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Memo
+
+Left panel should be a palette of tools
+Center is a canvas of blocks
+User may drag from left into canvas
+
 ## Available Scripts
 
 In the project directory, you can run:
